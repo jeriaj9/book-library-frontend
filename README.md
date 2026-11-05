@@ -10,7 +10,7 @@ Frontend en React para ver y administrar los libros y autores que expone la Libr
 ## Cómo correrlo
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/jeriaj9/book-library-frontend.git
 cd library-web
 npm install
 npm run dev
